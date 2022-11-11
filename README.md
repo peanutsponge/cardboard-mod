@@ -9,7 +9,6 @@ This allows you to sketch out a build in cardboard and then replace the cardboar
 ![](gifs/wall.gif)
 
 Furthermore, cardboard blocks are instantly breakable, allowing quick iterations on ideas.
-![](gifs/break.gif)
 
 
 ## License
